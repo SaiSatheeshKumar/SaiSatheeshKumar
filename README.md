@@ -4,7 +4,7 @@
 
 - 🔭 Software Engineer at EY GDS
 - 🌱 Pursuing B.Sc,Programming and Data Science in IITM
-- 👯 You can find my portfolio projects at https://saisatheeshkumar.github.io/
+- 👯 You can find my portfolio projects at http://saisatheeshkumar.me/
 - 📫 You can reach me at saisatheeshkumar@gmail.com
 
 
